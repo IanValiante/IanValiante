@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IanValiante
-- 👀 I’m interested in ... AI, ML, WebDev
+- 👀 I’m interested in ... DevOps, DevSecOps, Cyber Security
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... Any Java/JS/Python Projeects
 - 📫 How to reach me ... email me! ivaliante03@gmail.com!
